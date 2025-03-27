@@ -34,3 +34,4 @@ def plot_probabilities(max_n=15, base=10):
 # Приклад виклику:
 if __name__ == "__main__":
     plot_probabilities(15, 10)
+    #hbfchebrfchberhf
